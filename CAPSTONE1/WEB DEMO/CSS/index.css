@@ -1,0 +1,484 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.div1{
+    height: 600px;
+    width: 1000px;
+    margin-top: 10px;
+}
+#d1{
+   height:300px;
+   width: 1000px;
+   background-color: white; 
+   margin-top: 20px;
+}
+#d11{
+    height: 270px;
+    width: 650px;
+    background-color:rgb(108, 170, 242);
+    margin-left: 18px;
+    float: left;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+#d11a{
+    height: 240px;
+    width: 400px;
+    float: left;
+}
+#d11b{
+    height: 260px;
+    width: 210px;
+    background-color:bisque;
+    float: right;
+    margin-right: 10px;
+    background-image: url(../images/page1.jpg);
+    background-size: cover;
+}
+#d111{
+    font-size: 25px;
+    color:rgb(0, 97, 209);
+    margin-left: 20px;
+}
+#d112{
+    color: rgb(4, 4, 139);
+}
+#d113{
+    height: 30px;
+    width:140px;
+    background-color: rgb(0, 108, 250);
+    color: white;
+    border: rgb(0, 108, 250);
+    border-radius: 20px;
+    margin-left: 20px;
+         
+}
+#d12{
+    height: 270px;
+    width: 300px;
+    background-color: rgb(152, 255, 224);
+    float: right;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-right:18px;
+}
+#d5{
+    font-size:80px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+#b1{
+    color: green;
+    margin-left: 80px;
+    font-size: 25px;
+    margin-top: 200px;
+}
+#p1{
+    font-size: 15px;
+    margin-top: 30px;
+}
+#p11{
+    margin-left:10px;
+}
+#d2{
+    height: 300px;
+    width: 1000px;
+    background-color:white;
+}
+#d21{
+    height: 270px;
+    width: 310px ;
+    background-color:rgb(247, 157, 118);
+    margin-left: 18px;
+    float: left;
+    border-radius: 10px;
+}
+#d22{
+    height: 270px;
+    width: 310px ;
+    background-color:rgb(240, 183, 62);
+    margin-left: 18px;
+    float: left;
+    border-radius: 10px;
+}
+#d23{
+    height: 270px;
+    width: 300px;
+    background-color: rgb(204, 127, 239);
+    float: right;
+    border-radius: 10px;
+    margin-right:18px;
+}
+#d51{
+    font-size:80px;
+    color: rgb(209, 66, 34);
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#b2{
+    color:rgb(209, 66, 34);
+    margin-left: 85px;
+    font-size:25px;
+}
+#p2{
+    font-size: 15px;
+}
+#d52{
+    font-size:90px;
+    color: rgb(230, 131, 2);
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#b3{
+    color:rgb(230, 131, 2);
+    margin-left: 85px;
+    font-size:25px;
+}
+#p3{
+    font-size: 15px;
+}
+#d53{
+    font-size:80px;
+    color:  rgb(158, 1, 230);
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#b4{
+    color: rgb(158, 1, 230);
+    margin-left: 85px;
+    font-size:25px;
+}
+#p4{
+    font-size: 15px;
+}
+.div2{
+    height: 600px;
+    width: 1000px;
+    background-color: rgb(203,123,240);
+}
+#di1{
+height: 600px;
+width: 500px;
+}
+#di2{
+height: 600px;
+width: 500px;
+}
+#di11{
+     height: 300px;
+     width: 500px;
+ 
+}
+#di12{
+    height: 300px;
+    width: 500px;
+}
+#a{
+    font-size:30px;
+    color: white;
+    margin-left: 200px;
+}
+#b{
+    color: white;
+    margin-left: 200px;
+}
+#di111{
+    height: 300px;
+    width: 200px;
+    float: left;
+}
+#di111a{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(203,123,240);
+     float: right; 
+     background-image: url(../images/page2.jpg);
+     background-size: cover;
+}
+.div3{
+    height: 700px;
+    width: 1000px;
+    background-color:aliceblue;
+}
+.div4{
+    height: 600px;
+    width: 1000px;
+    background-color: rgb(203,123, 240);
+}
+.div5{
+    height: 480px;
+    width: 1000px;
+    background-color:aliceblue;
+}
+.div6{
+    height: 550px;
+    width: 1000px;
+    background-color:rgb(203, 123, 240);
+}
+#div41{
+    height: 200px;
+    width: 300px;
+    background-color:rgb(231, 196, 247) ;
+    float: left;
+    margin-top: 100px;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+#div42{
+    height: 200px;
+    width: 300px;
+    background-color:rgb(231, 196, 247) ;
+    float: left;
+    margin-top: 100px;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+#div43{
+    height: 200px;
+    width: 300px;
+    background-color:rgb(231, 196, 247) ;
+    float: right;
+    margin-top: 100px;
+    margin-right:25px;
+    border-radius: 10px;
+}
+#div44{
+    height: 200px;
+    width: 300px;
+    background-color:rgb(231, 196, 247) ;
+    float: left;
+    margin-left: 25px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#div45{
+    height: 200px;
+    width: 300px;
+    background-color:rgb(231, 196, 247) ;
+    float: left;
+    margin-left: 25px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#div46{
+    height: 200px;
+    width: 300px;
+    background-color:rgb(231, 196, 247) ;
+    float: right;
+    margin-right:25px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#pre1{
+    font-size: 40px;
+    color: rgb(203,123, 240);
+    margin-left: 9px;
+    margin-left: 9px;
+}
+#p71{
+    font-size:20px;
+    color: rgb(203,123, 240);
+    margin-left: 9px;
+}
+#p81{
+    font-size: 13px;
+    margin-left: 9px;
+}
+#but1{
+    height:25px;
+    width: 70px;
+    background-color:rgb(203,123, 240);
+    color: white;
+    margin-left: 9px;
+    border-radius: 50px;
+    border: rgb(203,123, 240);
+}
+#p91{
+    font-size: 40px;
+    color: white;
+    margin-top:-60px ;
+}
+#th1{
+    margin-bottom:50px;
+}
+#td{
+    height: 160px;
+    width: 260px;
+}
+#td1{
+    height: 150px;
+    width: 150px;
+    background-color:wheat;
+    margin-top: 70px;
+    border-radius: 100px;
+    float: left;
+    margin-left: 20px;
+    background-image: url(../images/aboutus.jpg);
+    background-size: cover;
+}
+#td2{
+    height: 100px;
+    width: 90px;
+    float: left;   
+    margin-top: 65px;
+}
+#i1{
+    font-size: 35px;
+    color:rgb(203,123, 240);   
+}
+#tdd3{
+    height: 130px;
+    width: 230px;
+    margin-left: 10px;
+}
+#tdd4{
+    font-size: 18px;
+    color:rgb(203,123, 240); 
+}
+#tdd6{
+    margin-top: 60px;
+}
+#th1{
+    font-size: 50px;
+    color:rgb(203,123, 240)
+   
+}
+#bo1{
+    width: 200px;
+    height: 25px;
+    background-color:rgb(203,123, 240);
+    color: white;
+    border:rgb(203,123, 240);
+    border-radius: 5px;
+    margin-top: 7px;
+}
+#pg3{
+    height: 130px;
+    width: 1000px;
+    text-align: center;
+}
+#pg3a{
+    font-size: 33px;
+    color: rgb(203,123, 240);
+}
+#pg51{
+    height: 160px;
+    width: 800px;
+    background-color: rgb(255, 137, 137);
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+#pg511{
+    height: 160px;
+    width: 300px;
+    float: left;
+}
+#pg5111{
+    height: 160px;
+    width: 160px;
+    float: left;
+    background-color:blueviolet;
+    margin-left: 70px;
+    border-radius: 100px;
+    background-image: url(../images/testimonial2.jpg);
+    background-size: cover;
+}
+#pg5123{
+    font-size: 20px;
+    text-align: center;
+}
+#pg52{
+    height: 160px;
+    width: 800px;
+    background-color:rgb(230, 131, 2);
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+#pg522{
+    height: 160px;
+    width: 300px;
+    float: left;
+   
+}
+#pg5222{
+    height: 160px;
+    width: 160px;
+    float: left;
+    background-color:blueviolet;
+    margin-left: 70px;
+    border-radius: 100px;
+    background-image: url(../images/testimonial3.jpg);
+    background-size: cover;
+}
+#pg53{
+    height: 160px;
+    width: 800px;
+    background-color:rgb(152, 255, 224);
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+#pg533{
+    height: 160px;
+    width: 300px;
+    float: left;
+   
+}
+#pg5333{
+    height: 160px;
+    width: 160px;
+    float: left;
+    background-color:blueviolet;
+    margin-left: 70px;
+    border-radius: 100px;
+    background-image: url(../images/testimonial1.jpeg);
+    background-size: cover;
+}
+#div61{
+    height: 400px;
+    width: 1000px;
+    text-align: center;
+}
+#div62{
+    height: 150px;
+    width: 1000px;
+    background-color: black;
+}
+#div611{
+    color: rgb(205, 196, 196);
+}
+#div612{
+    font-size: 35px;
+    color: white
+}
+#div613{
+    font-size:70px ;
+    color:rgb(235, 175, 10);
+}
+#div614{
+    color: white;
+}
+#div615{
+    height: 35px;
+    width: 190px;
+    background-color: white;
+    color: rgb(203,123, 240);
+    border: white;
+    border-radius:20px;
+}
+#div62{
+    color: white;
+    text-align: center;
+}
+u{
+    color: rgb(203,123, 240); ;
+}
+#div616{
+    color: white;
+    margin-top: 20px;
+    margin-left: 130px;
+}
