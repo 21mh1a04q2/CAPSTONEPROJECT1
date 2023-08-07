@@ -7,11 +7,12 @@
     height: 600px;
     width: 1000px;
     margin-top: 10px;
+    background-color: rgb(202, 212, 220);
 }
 #d1{
    height:300px;
    width: 1000px;
-   background-color: white; 
+   background-color:white; 
    margin-top: 20px;
 }
 #d11{
@@ -36,6 +37,7 @@
     margin-right: 10px;
     background-image: url(../images/page1.jpg);
     background-size: cover;
+    border-radius: 8px;
 }
 #d111{
     font-size: 25px;
@@ -78,9 +80,10 @@
 #p1{
     font-size: 15px;
     margin-top: 30px;
+    color: green;
 }
-#p11{
-    margin-left:10px;
+.p11{
+    text-align:center;
 }
 #d2{
     height: 300px;
@@ -124,6 +127,7 @@
 }
 #p2{
     font-size: 15px;
+    color: rgb(209, 66, 34);
 }
 #d52{
     font-size:90px;
@@ -138,6 +142,7 @@
 }
 #p3{
     font-size: 15px;
+    color:rgb(230, 131, 2);
 }
 #d53{
     font-size:80px;
@@ -152,6 +157,7 @@
 }
 #p4{
     font-size: 15px;
+    color:rgb(158, 1, 230);
 }
 .div2{
     height: 600px;
@@ -161,10 +167,7 @@
 #di1{
 height: 600px;
 width: 500px;
-}
-#di2{
-height: 600px;
-width: 500px;
+float: left;
 }
 #di11{
      height: 300px;
@@ -197,6 +200,43 @@ width: 500px;
      background-image: url(../images/page2.jpg);
      background-size: cover;
 }
+#di2{
+    height: 600px;
+    width: 500px;
+    float:right;  
+}
+#di22{
+    height: 600px;
+    width: 400px;
+    float:left;  
+}
+#di222{
+    height: 450px;
+    width: 400px; 
+}
+#di222a{
+    height: 450px;
+    width: 330px;
+    background-color:white;
+    margin-left: 25px;
+    margin-top:80px;
+    border-radius: 30px;
+}
+#di222a1{
+    height: 250px;
+    width: 330px;
+    background-color:green;
+    border-radius: 30px;
+    background-image: url(../images/page2a.png);
+    background-size: cover;
+}
+#di222a2{
+    text-align: center;
+    font-size: 19px;
+}
+a2{
+    font-size: 23px;
+}
 .div3{
     height: 700px;
     width: 1000px;
@@ -222,7 +262,7 @@ width: 500px;
     width: 300px;
     background-color:rgb(231, 196, 247) ;
     float: left;
-    margin-top: 100px;
+    margin-top:90px;
     margin-left: 25px;
     border-radius: 10px;
 }
@@ -231,7 +271,7 @@ width: 500px;
     width: 300px;
     background-color:rgb(231, 196, 247) ;
     float: left;
-    margin-top: 100px;
+    margin-top: 90px;
     margin-left: 25px;
     border-radius: 10px;
 }
@@ -240,7 +280,7 @@ width: 500px;
     width: 300px;
     background-color:rgb(231, 196, 247) ;
     float: right;
-    margin-top: 100px;
+    margin-top: 90px;
     margin-right:25px;
     border-radius: 10px;
 }
@@ -251,7 +291,7 @@ width: 500px;
     float: left;
     margin-left: 25px;
     border-radius: 10px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 #div45{
     height: 200px;
@@ -260,7 +300,7 @@ width: 500px;
     float: left;
     margin-left: 25px;
     border-radius: 10px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 #div46{
     height: 200px;
@@ -269,7 +309,7 @@ width: 500px;
     float: right;
     margin-right:25px;
     border-radius: 10px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 #pre1{
     font-size: 40px;
@@ -298,7 +338,8 @@ width: 500px;
 #p91{
     font-size: 40px;
     color: white;
-    margin-top:-60px ;
+    margin-top:40px;
+    margin-left: 260px;
 }
 #th1{
     margin-bottom:50px;
