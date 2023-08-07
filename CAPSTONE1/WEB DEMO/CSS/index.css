@@ -242,20 +242,100 @@ a2{
     width: 1000px;
     background-color:aliceblue;
 }
+#pg3{
+    height: 130px;
+    width: 1000px;
+    text-align: center;
+}
+#pg3a{
+    font-size: 33px;
+    color: rgb(203,123, 240);
+}
+#pg51{
+    height: 160px;
+    width: 800px;
+    background-color: rgb(255, 137, 137);
+    margin-top: 30px;
+    align-items: center;
+    border-radius: 10px;
+}
+#pg511{
+    height: 160px;
+    width: 300px;
+    float: left;
+}
+#pg5111{
+    height: 160px;
+    width: 160px;
+    float: left;
+    background-color:blueviolet;
+    margin-left: 70px;
+    border-radius: 100px;
+    background-image: url(../images/testimonial2.jpg);
+    background-size: cover;
+}
+#pg5123{
+    font-size: 20px;
+    text-align: center;
+}
+#pg52{
+    height: 160px;
+    width: 800px;
+    background-color:rgb(230, 131, 2);
+    margin-top: 20px;
+    align-items: center;
+    border-radius: 10px;
+}
+#pg522{
+    height: 160px;
+    width: 300px;
+    float: left;
+   
+}
+#pg5222{
+    height: 160px;
+    width: 160px;
+    float: left;
+    background-color:blueviolet;
+    margin-left: 70px;
+    border-radius: 100px;
+    background-image: url(../images/testimonial3.jpg);
+    background-size: cover;
+}
+#pg53{
+    height: 160px;
+    width: 800px;
+    background-color:rgb(152, 255, 224);
+    margin-top: 20px;
+    align-items: center;
+    border-radius: 10px;
+}
+#pg533{
+    height: 160px;
+    width: 300px;
+    float: left;
+   
+}
+#pg5333{
+    height: 160px;
+    width: 160px;
+    float: left;
+    background-color:blueviolet;
+    margin-left: 70px;
+    border-radius: 100px;
+    background-image: url(../images/testimonial1.jpeg);
+    background-size: cover;
+}
 .div4{
     height: 600px;
     width: 1000px;
     background-color: rgb(203,123, 240);
 }
-.div5{
-    height: 480px;
-    width: 1000px;
-    background-color:aliceblue;
-}
-.div6{
-    height: 550px;
-    width: 1000px;
-    background-color:rgb(203, 123, 240);
+#p91{
+    font-size: 40px;
+    color: white;
+    margin-top:40px;
+    margin-left: 60px;
 }
 #div41{
     height: 200px;
@@ -335,11 +415,10 @@ a2{
     border-radius: 50px;
     border: rgb(203,123, 240);
 }
-#p91{
-    font-size: 40px;
-    color: white;
-    margin-top:40px;
-    margin-left: 260px;
+.div5{
+    height: 480px;
+    width: 1000px;
+    background-color:aliceblue;
 }
 #th1{
     margin-bottom:50px;
@@ -395,89 +474,10 @@ a2{
     border-radius: 5px;
     margin-top: 7px;
 }
-#pg3{
-    height: 130px;
+.div6{
+    height: 550px;
     width: 1000px;
-    text-align: center;
-}
-#pg3a{
-    font-size: 33px;
-    color: rgb(203,123, 240);
-}
-#pg51{
-    height: 160px;
-    width: 800px;
-    background-color: rgb(255, 137, 137);
-    margin-top: 30px;
-    margin-left: 100px;
-    border-radius: 10px;
-}
-#pg511{
-    height: 160px;
-    width: 300px;
-    float: left;
-}
-#pg5111{
-    height: 160px;
-    width: 160px;
-    float: left;
-    background-color:blueviolet;
-    margin-left: 70px;
-    border-radius: 100px;
-    background-image: url(../images/testimonial2.jpg);
-    background-size: cover;
-}
-#pg5123{
-    font-size: 20px;
-    text-align: center;
-}
-#pg52{
-    height: 160px;
-    width: 800px;
-    background-color:rgb(230, 131, 2);
-    margin-top: 20px;
-    margin-left: 100px;
-    border-radius: 10px;
-}
-#pg522{
-    height: 160px;
-    width: 300px;
-    float: left;
-   
-}
-#pg5222{
-    height: 160px;
-    width: 160px;
-    float: left;
-    background-color:blueviolet;
-    margin-left: 70px;
-    border-radius: 100px;
-    background-image: url(../images/testimonial3.jpg);
-    background-size: cover;
-}
-#pg53{
-    height: 160px;
-    width: 800px;
-    background-color:rgb(152, 255, 224);
-    margin-top: 20px;
-    margin-left: 100px;
-    border-radius: 10px;
-}
-#pg533{
-    height: 160px;
-    width: 300px;
-    float: left;
-   
-}
-#pg5333{
-    height: 160px;
-    width: 160px;
-    float: left;
-    background-color:blueviolet;
-    margin-left: 70px;
-    border-radius: 100px;
-    background-image: url(../images/testimonial1.jpeg);
-    background-size: cover;
+    background-color:rgb(203, 123, 240);
 }
 #div61{
     height: 400px;
